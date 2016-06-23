@@ -8,8 +8,11 @@ public class NetWork {
     public final static int WEB_PORT;
     public final static int SOCKET_PORT;
     static {
-        IP_ADDRESS ="125.71.208.82";
-        WEB_PORT = 8341;
+//        IP_ADDRESS ="125.71.208.82";
+        IP_ADDRESS ="192.168.10.127";
+
+//        WEB_PORT = 8341;
+        WEB_PORT = 8888;
         SOCKET_PORT = 2048;
     }
 
